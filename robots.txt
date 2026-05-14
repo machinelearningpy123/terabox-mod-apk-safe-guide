@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://machinelearningpy123.github.io/terabox-mod-apk-safe-guide/sitemap.xml
